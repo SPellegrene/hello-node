@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/SPellegrene/hello-node/issues"
   },
-  "homepage": "https://github.com/SPellegrene/hello-node#readme"
+  "homepage": "https://github.com/SPellegrene/hello-node#readme",
+  "dependencies": {
+    "chalk": "^1.1.3"
+  }
 }
